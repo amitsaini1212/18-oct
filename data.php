@@ -1,6 +1,7 @@
 <?php
 class Data
 {
+    public $dat;
     public $data;
     public function __construct($data)
     {
